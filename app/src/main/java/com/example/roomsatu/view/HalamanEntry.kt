@@ -21,7 +21,7 @@ import com.example.roomsatu.viewmodel.EntryViewModel
 import com.example.roomsatu.viewmodel.EntryViewModel.UIStateSiswa
 import com.example.roomsatu.viewmodel.EntryViewModel.DetailSiswa
 import com.example.roomsatu.view.route.DestinasiEntry
-import com.example.roomsatu.viewmodel.PenyediaViewModel
+import com.example.roomsatu.viewmodel.provider.PenyediaViewModel
 
 
 @OptIn(ExperimentalMaterial3Api::class)
